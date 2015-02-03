@@ -1,0 +1,11 @@
+.body{background url(images/nDvrZsC.jpg)
+.mainmanu{ background-color:#CC9900}
+.mainmanu ul{ margin:0; padding:0; list-style:none}
+.mainmanu ul li{color:#CC0066}
+.mainmanu ul li a{ color:#6600CC; padding:45px; display:inline-block;}
+.mainmanu ul li a:hover{ background:#FF9900}
+.Banner {width:700px;}
+.wrapper{overflow: hidden; padding:14px;}
+.wrapper col-md-9{width: 610px ; float-left; padding-left}
+.wrapper col-md-3{width: 300px ;float-right; padding-right}
+.footer{background:#333; color:#fff; padding:5px;}
